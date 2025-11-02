@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vayrix  
 
-### A backend developer mainly in Java ☕  
+### A backend developer in Java ☕  
 
 - 🧠 I’m currently working on **NovaExploit**  
 - 🌱 I’m currently improving my skills in **Java** and **C#**  
