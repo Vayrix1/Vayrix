@@ -3,7 +3,7 @@
 ### A backend developer in Java ☕  
 
 - 🧠 I’m currently learn **C# <3**  
-- 🌱 I’m currently improving my skills in **Java** and **C#**  
+- 🌱 I’m currently improving my skills in **C#**  
 - 💬 Discord: **.vayrix**
 
 ---
