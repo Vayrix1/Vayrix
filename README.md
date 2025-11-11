@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vayrix  
 
-### A backend developer in Java ☕  
+### A backend developer in C# ☕  
 
 - 🧠 I’m currently learn **C# <3**  
 - 🌱 I’m currently improving my skills in **C#**  
